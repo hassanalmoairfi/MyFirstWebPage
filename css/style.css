@@ -1,0 +1,69 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background:rgb(30, 35, 46);
+    background-image: url("../background10.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+header{
+    background: rgb(93, 35, 168);
+    height: 100px;
+    width: auto;
+    text-align: center;
+    margin-top: 0;
+    box-shadow: 23px;
+    
+}
+.title{
+    color: rgb(21, 21, 31);
+    text-emphasis: shadow 70px;
+    
+    text-align: center;
+    margin-top: auto;
+}
+h1{
+    color: rgb(79, 77, 194);
+}
+p{
+    color: rgb(126, 126, 150);
+}
+.heh{
+   
+}
+.pro{
+
+}
+.ad_0{
+    background-origin: padding-box;
+    margin-top: auto;
+    background-color: white;
+}
+.buttaction{
+    color: rgb(83, 15, 240);
+    background-color: rgb(83, 15, 240);
+}
+.links_links ul{
+   display: inline-flex;
+    list-style: none;
+    color: rgb(176, 162, 201);
+    
+}
+.links_links ul li{
+    width: 120;
+    margin: 15;
+    padding: 20px;
+}
+.links_links ul li a{
+    text-decoration: none;
+    color: rgb(171, 155, 209);
+}
+.active,.links_links ul li a{
+    background: #140a68;
+    border-radius:3px ;
+    
+}
